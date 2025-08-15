@@ -19,7 +19,7 @@ This project is a Python-based web scraper for extracting data from Reddit. It u
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-username/Reddit-web-scraping.git
+   git clone https://github.com/dtarlann/Reddit-web-scraping.git
    cd reddit-web-scraper
 
 2. Install the required Python packages:
